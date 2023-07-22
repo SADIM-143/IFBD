@@ -24,7 +24,7 @@ pip install rich
 
 rm -rf IFBD
 
-git clone --depth=1 https://github.com/sadim-king/IFBD.git
+git clone --depth=1 https://github.com/SADIM-143/IFBD.git
 
 cd IFBD
 
